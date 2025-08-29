@@ -1,6 +1,12 @@
-# Hi there 👋, I'm Saif-Eddine Keraa!
+# Hi there 👋, I'm Saif-Eddine Keraa
 
-I'm a **Full Stack & DevOps Engineer** passionate about building scalable applications, automating infrastructure, and improving CI/CD pipelines. I love working with modern web technologies and cloud platforms.
+I'm a **Full Stack & DevOps Engineer** with a strong passion for building **scalable, secure, and high-performance applications**. I specialize in **cloud infrastructure automation, CI/CD pipeline optimization, and container orchestration**, and I enjoy leveraging modern technologies to deliver robust solutions.  
+
+I have hands-on experience with **MERN stack (MongoDB, Express, React, Node.js), PostgreSQL, Docker, Kubernetes, Terraform, Ansible, and GitHub Actions**. I’m also skilled in **DevSecOps practices**, automated testing, and system monitoring using **Prometheus & Grafana**.  
+
+I thrive in collaborative environments, following **Agile/Scrum methodologies**, and I’m committed to continuous learning and innovation in software development and cloud technologies.  
+
+🚀 Let’s connect and build amazing projects together!
 
 ---
 
@@ -94,4 +100,5 @@ I love **coffee ☕, open-source contributions**, and **automating repetitive ta
 
 ## 📫 Connect with me
 
-[LinkedIn](https://linkedin.com/in/saif-eddine-keraa) | [Portfolio](https://saifportfo.netlify.app) | ✉️ Haddedseif746@gmail.com
+[🔗 LinkedIn](https://linkedin.com/in/saif-eddine-keraa) | [🌐 Portfolio](https://saifportfo.netlify.app) | [✉️ Email](mailto:Haddedseif746@gmail.com) | [🐙 GitHub](https://github.com/Saif-hadd)
+
