@@ -45,15 +45,15 @@ I'm a **Full Stack & DevOps Engineer** passionate about building scalable applic
 
 ## 💻 Projects
 
-- [Portfolio Website](https://saifportfo.netlify.app) – Personal portfolio built with **React & Netlify** ![Portfolio GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+- [Portfolio Website](https://saifportfo.netlify.app) – Personal portfolio built with **React & Netlify** 
 - [Infra-as-Code Automation](https://github.com/Saif-hadd/infra-as-code-automation) – 
   Containerization of microservices using Docker & Docker Compose (multi-container setups, networks, secrets), 
   provisioned Microsoft Azure infrastructure (VMs, VNets, NSGs) with Terraform (IaC), and automated deployments of microservices (Node.js, React, PostgreSQL) with Ansible. 
   Also includes manual test plans for front-end/back-end, API testing (Postman), automated UI testing (Playwright), 
   full QA lifecycle management (Jira), CI/CD pipelines with GitHub Actions (unit tests, SAST, DAST, vulnerability scans – 40% fewer production errors, 30% faster deployments), 
-  and system monitoring with Prometheus & Grafana. ![Infra GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+  and system monitoring with Prometheus & Grafana. 
 - [AI-Image-Generation-App](https://github.com/Saif-hadd/AI-Image-Generation-App) – AI-powered image generation inspired by DALL·E, built with a **Full Stack MERN architecture (MongoDB, Express.js, React, Node.js)**. Features include **Cloudinary integration** for secure image storage, a **user-friendly interface** for creating and viewing generated images, **real-time image generation feedback** with loading indicators, and functionality to **download and share images**. Deployed via **Render** for smooth hosting.  
-  **Technologies:** React, Node.js, Express.js, OpenAI API, MongoDB, Cloudinary ![AI GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
+  **Technologies:** React, Node.js, Express.js, OpenAI API, MongoDB, Cloudinary
 
 
 ---
