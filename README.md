@@ -60,8 +60,9 @@ I'm a **Full Stack & DevOps Engineer** passionate about building scalable applic
 
 ## 📊 GitHub Stats
 
-![Saif-Eddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-eddine-keraa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-eddine-keraa&layout=compact&theme=radical)
+![Saif-Hadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saif-hadd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-hadd&layout=compact&theme=radical)
+
 
 ---
 
