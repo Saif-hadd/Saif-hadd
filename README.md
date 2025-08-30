@@ -100,5 +100,5 @@ I love **coffee ☕, open-source contributions**, and **automating repetitive ta
 
 ## 📫 Connect with me
 
-[🔗 LinkedIn]([https://www.linkedin.com/in/saif-eddine-keraa-2838a71b9/]) | [🌐 Portfolio](https://saifportfo.netlify.app) | [✉️ Email](mailto:Haddedseif746@gmail.com) | [🐙 GitHub](https://github.com/Saif-hadd)
+[🔗 LinkedIn](https://www.linkedin.com/in/saif-eddine-keraa-2838a71b9/) | [🌐 Portfolio](https://saifportfo.netlify.app) | [✉️ Email](mailto:Haddedseif746@gmail.com) | [🐙 GitHub](https://github.com/Saif-hadd)
 
