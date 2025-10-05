@@ -5,6 +5,7 @@ I'm a **Full Stack & DevOps Engineer** with a strong passion for building **scal
 I have hands-on experience with **MERN stack (MongoDB, Express, React, Node.js), PostgreSQL, Docker, Kubernetes, Terraform, Ansible, and GitHub Actions**. I’m also skilled in **DevSecOps practices**, automated testing, and system monitoring using **Prometheus & Grafana**.  
 
 I thrive in collaborative environments, following **Agile/Scrum methodologies**, and I’m committed to continuous learning and innovation in software development and cloud technologies.  
+💡 Open Source Contributor & NPM Author: I actively contribute to open source projects and have published two React packages on NPM, helping developers streamline their workflows and optimize UI performance.
 
 🚀 Let’s connect and build amazing projects together!
 
